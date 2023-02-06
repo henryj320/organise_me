@@ -1,4 +1,5 @@
-# python_template
+# autogenerate_gym_calendar
+
 Last update: 2022/10/15 00:50
 <br><br>
 
