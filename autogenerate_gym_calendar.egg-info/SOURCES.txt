@@ -1,0 +1,6 @@
+README.md
+setup.py
+autogenerate_gym_calendar.egg-info/PKG-INFO
+autogenerate_gym_calendar.egg-info/SOURCES.txt
+autogenerate_gym_calendar.egg-info/dependency_links.txt
+autogenerate_gym_calendar.egg-info/top_level.txt
