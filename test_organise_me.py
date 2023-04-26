@@ -1,6 +1,6 @@
 """Tests for autogenerate_gym_calendar."""
 import urllib.parse
-from autogenerate_script import *
+from organise_me import *
 
 
 

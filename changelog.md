@@ -1,8 +1,8 @@
-# autogenerate_gym_calendar
-Last update: 2022/11/03 23:36
+# organise_me
+Last update: 2023-04-26 22:23
 <br><br>
 
-## Changelog for autogenerate_gym_calendar
+## Changelog for organise_me
 
 1. Created the initial project file, updated setup.py and README.
 2. Filled app.py.
@@ -33,3 +33,4 @@ Last update: 2022/11/03 23:36
     - Added to the tox.ini
     - "ERROR: InvocationError" caused by running pytest without any tests existing
 17. Added tests for autogenerate_script.
+18. Renamed it from autogenerate_gym_calendar to organise_me.
